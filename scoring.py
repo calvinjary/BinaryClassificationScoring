@@ -1,9 +1,7 @@
 # E:\Dropbox\9 PhD Research\2 PyPE scoring
 
 '''
-Welcome to PyPE by Calvin Jary
-Features include reporting progress along with timestamps
-Writing out results dynamically
+Welcome to Binary Classification sorting, scoring and generating a precision-recall curve by Calvin Jary
 '''
 
 # Importing the libraries, note numpy is faster than pandas for this application
